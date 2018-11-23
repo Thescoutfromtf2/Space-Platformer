@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/space platformer v1 09.05 19112018.unity
+- path: Assets/Scenes/space platformer v1 10.20 18112018.unity
   isLoaded: 1
   isActive: 1
